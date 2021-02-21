@@ -1,4 +1,5 @@
-
+*.vcxproj
+*.filters
 
 # Files built by Visual Studio
 *_i.c
